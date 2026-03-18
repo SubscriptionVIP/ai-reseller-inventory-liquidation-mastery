@@ -1,28 +1,27 @@
-# AI Reseller Liquidation Hub
+# AI Reseller Inventory Mastery
 
-Scale your digital asset business with our high-performance, cost-effective AI account bundles. Designed for high-volume resellers, our inventory ensures maximum profit margins on the most demanded creative and AI tools.
+Maximize your profit margins with our high-demand AI and creative tool liquidation bundles. Designed specifically for professional resellers, our platform provides instant access to premium account inventory.
 
 ## 📦 Reseller Bundles
 
-| Tier | Featured Access | Pricing |
-| :--- | :--- | :--- |
-| **Starter** | Gemini, Perplexity, ChatGPT, CapCut, Canva | $100 USD |
-| **Power** | High-volume Gemini & Perplexity access | $200 USD |
-| **Elite** | Bulk liquidation stock for scaling | $300 USD |
-| **Enterprise** | Maximum inventory for empire building | $450 USD |
+We offer four tiers of inventory to scale your business:
 
-## 🚀 Why Partner With Us?
-- **Unbeatable Bulk Pricing:** Scaled pricing models for competitive market entry.
-- **Instant Delivery:** Automated fulfillment via our VIP Reseller Panel.
-- **Premium Inventory:** Fresh, high-demand accounts for immediate resale.
+*   **Starter Reseller ($100):** Entry-level inventory for small-scale distribution.
+*   **Power Reseller ($200):** Optimized value for consistent monthly sales.
+*   **Elite Bulk Liquidator ($300):** High-volume stock for scaling operations.
+*   **Enterprise Mastery Empire ($450):** Maximum inventory capacity for top-tier market leaders.
 
-## 🛒 How to Purchase
-1. Access our automated bot: [VIP Reseller Panel](https://t.me/VIPresellerPanel_Bot)
-2. Choose your bundle based on your scale requirements.
-3. Complete transaction for immediate access.
+## 🚀 How to Start
 
-## 🛡️ Support & Guarantees
-- **Replacement Policy:** Full replacement within 24 hours of opening a support ticket for non-functional accounts.
-- **VIP Support:** Priority access for all confirmed bulk purchasers.
+1.  **Visit our Automated Bot:** [VIP Reseller Panel](https://t.me/VIPresellerPanel_Bot)
+2.  **Select Bundle:** Choose the package that fits your inventory needs.
+3.  **Instant Delivery:** Receive your codes and account credentials automatically after payment.
 
-*Note: Stock is limited and subject to inventory turnover. Prices valid while supplies last.*
+## 🛡️ Service Guarantees
+
+*   **Replacement Policy:** Full replacement provided for any account issues reported within 24 hours of delivery.
+*   **Priority Support:** Dedicated 24/7 support channels exclusively for VIP customers upon payment confirmation.
+
+## ⚠️ Disclaimer
+
+Stock is limited. Current pricing applies only while our inventory liquidation lasts. Ensure you are purchasing through the official Telegram bot to guarantee delivery and support eligibility.
