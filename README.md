@@ -1,29 +1,24 @@
-# AI Reseller Inventory Liquidation Hub
+# AI Reseller Inventory Mastery
 
-Maximize your profit margins with our high-demand AI and creative tool inventory liquidations. Scale your digital product business with our curated bulk reseller bundles.
+Scale your digital asset business with our exclusive, high-margin AI tool reseller bundles. We provide bulk access to industry-leading platforms including Gemini Pro, Perplexity, ChatGPT Plus, and Canva Pro.
 
-## 📈 Why Choose Our Bundles?
-- **High-Demand Assets:** Premium access to Gemini Pro, ChatGPT Plus, Perplexity, CapCut, and Canva Pro.
-- **Bulk Pricing:** Designed specifically for resellers to maximize ROI.
-- **Instant Scalability:** Choose from Starter to Enterprise tiers to match your market needs.
+## 📦 Available Reseller Bundles
 
-## 📦 Reseller Tier Overview
-
-| Tier | Primary Focus | Best For |
+| Bundle | Highlights | Price |
 | :--- | :--- | :--- |
-| **Starter** | Entry-level growth | New Resellers |
-| **Power** | Best Value Ratio | Growing Agencies |
-| **Elite** | High-Volume Sales | Experienced Sellers |
-| **Enterprise** | Maximum Market Dominance | Top-Tier Distributors |
+| **Starter** | 40 Gemini Pro, 50 Perplexity, 20 ChatGPT | $100 USD |
+| **Power** | 90 Gemini Pro, 110 Perplexity, 45 ChatGPT | $200 USD |
+| **Elite** | 200 Gemini Pro, 170 Perplexity, 100 ChatGPT | $300 USD |
+| **Enterprise** | 500 Gemini Pro, 300 Perplexity, 250 ChatGPT | $450 USD |
 
-## 🛒 How to Purchase
-Automate your supply chain today:
-1. Visit our [VIP Reseller Panel Bot](https://t.me/VIPresellerPanel_Bot).
+## 🚀 How to Purchase
+1. Visit our automated portal: [VIP Reseller Panel Bot](https://t.me/VIPresellerPanel_Bot)
 2. Select your preferred bundle.
-3. Receive instant delivery upon payment confirmation.
+3. Execute payment for instant digital delivery.
 
-## 🛡️ Guarantee & Support
-- **Replacement Policy:** Full replacement guaranteed for any account issues reported within 24 hours.
-- **VIP Support:** Priority assistance exclusively for confirmed customers post-purchase.
+## 🛡️ Reliability & Support
+* **Replacement Policy**: Full replacement provided for any account issues reported within 24 hours via our support ticket system.
+* **VIP Support**: Priority assistance is granted to all verified customers immediately upon successful purchase.
 
-> **⚠️ Limited Stock Warning:** Prices and inventory levels are subject to supply availability. Secure your stock before current liquidation cycles end.
+## ⚠️ Disclaimer
+Inventory is limited and subject to market availability. Prices are valid only while current stock lasts. This program is designed for professional resellers looking to maximize profit margins in the AI software sector.
